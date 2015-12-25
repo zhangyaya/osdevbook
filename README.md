@@ -1,4 +1,4 @@
-My Awesome Book
+Operating System Development Series
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Chinese version of Operating System Development Series [here](http://www.brokenthorn.com/Resources/OSDevIndex.html)
